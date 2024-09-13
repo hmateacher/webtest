@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+img{
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+    margin-right: 5px;
+    border-radius: 20px;
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    background-color: #CEF279;
+    border-radius: 30px;
+    font-size: 20pt;
+    margin-bottom: 20px;
+}
+
+button:hover{
+    background-color: white;
+}
